@@ -5,4 +5,5 @@ All in one tool for Information Gathering, Vulnerability Scanning and Crawling. 
 
 #Scans That You Can Perform Using WHITE HAWK :
 
-	Basic Scan
+	
+	
